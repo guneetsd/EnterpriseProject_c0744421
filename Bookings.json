@@ -1,0 +1,63 @@
+[
+
+    {
+        "booking_id": "bO01",
+        "cust_id": 1045,
+        "no_of_members": "25",
+        "bookingDate": "2019-12-15",
+        "event_Type": "Birthday party",
+		"special_requ":"balloons"
+        }
+    },
+    {
+        "booking_id": "bO02",
+        "cust_id": 1020,
+        "no_of_members": "20",
+        "bookingDate": "2020-01-02",
+        "event_Type":"Farewell Party" 
+		"special_requ":"DJ and music"
+        }
+    },
+    {
+        "booking_id": "bO03",
+        "cust_id": 1010,
+        "no_of_members": "18",
+        "bookingDate": "2019-12-15",
+		"event_Type":"Marriage Anniversary"
+		"special_requ":"Flowers"
+        }
+    },
+    {
+        "booking_id": "bO04",
+        "cust_id": 1050,
+        "no_of_members": "20",
+        "bookingDate": "2019-12-20",
+        "event_Type":"Birthday party"
+		"special_requ":"Decoration"
+        }
+    },
+    {
+        "booking_id": "bO05",
+        "cust_id": 1055,
+        "no_of_members": "15",
+        "bookingDate": "2020-01-05",
+        "event_Type":"Marriage Anniversary"
+		"special_requ":"balloons"
+    },
+    {
+        "booking_id": "bO06",
+        "cust_id": 1033,
+        "no_of_members": "25",
+        "bookingDate": "2019-09-12",
+        "event_Type":"Kitty party"
+		"special_requ":"Nothing"
+    },
+    {
+        "booking_id": "bO07",
+        "cust_id": 1006,
+        "no_of_members": "20",
+        "bookingDate": "2019-12-20",
+        "event_Type":"Marriage Anniversary"
+		"special_requ":"Flowers"	
+    }
+]

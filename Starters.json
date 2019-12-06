@@ -1,0 +1,57 @@
+[
+    
+    {
+        "_id": "sm01",
+        "Name": "Veg kabab",
+        "Price": 5.99,
+        "Desc": "cooked mixed vegetable mixture is shaped around the skewers and grill to the perfection."
+    },
+    {
+        "_id": "sm02",
+        "Name": "Bread Roll",
+        "Price": 7.99,
+        "Desc": "the bread is stuffed with spiced potato-peas mixture and shaped into roll. These stuffed bread roll are fried till crisp and golden brown."
+    },
+    {
+        "_id": "sm03",
+        "Name": "Samosa",
+        "Price": 3.99,
+        "Desc": "A samosa is a fried pastry with savoury filling of potatoes,onions and peas.It is served with one or two different dippings."
+    },
+    {
+        "_id": "sm04",
+        "Name": "Paneer Manchurian Dry",
+        "Price": 4.99,
+        "Desc": "Deep fried, crispy paneer cubes are coated with spicy, sour and slightly sweet Indo-chinese sauce. Best served as a starter or snack."
+    },
+    {
+        "_id": "sm05",
+        "Name": "Veg manchurian dry",
+        "Price": 5.99,
+        "Desc": "This is the Indo Chinese starter dish where fried vegetable balls are coated with thick, flavorful sauce. Since this is the dry version there is no gravy."
+    },
+    {
+        "_id": "sm06",
+        "Name": "Shami Kebab",
+        "Price": 6.99,
+        "Desc": "Shami Kebab are smoked minced spicy meat appetizers which can be served for your house parties as appetisers. Do try it and we are sure you will love it."
+    },
+    {
+        "_id": "sm07",
+        "Name": "Cheesy Chicken Tikka",
+        "Price": 5.49,
+        "Desc": "Cheesy Chicken Tikka Recipe is a delicious and indulgent party appetizer with double marinated chicken tikka with lovely melt in the mouth cheese. Serve it along with Dahi Pudina Chutney and some pickled onions."
+    },
+    {
+        "_id": "sm08",
+        "Name": " Crispy Chicken Popcorn ",
+        "Price": 6.99,
+        "Desc": "Chicken Popcorn Recipe is a party appetizer which has succulent pieces of chicken with a crispy flavourful coating."
+    },
+    {
+        "_id": "sm09",
+        "Name": "Garlic Chicken Cheese Balls ",
+        "Price": 8.99,
+        "Desc": "Garlic Chicken Cheese Balls Recipe is minced chicken flavoured with garlic, stuffed with gooey mozzarella cheese deep fried to perfection. "
+    }
+]
