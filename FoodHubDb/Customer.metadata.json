@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"FoodHubDb.Customer"}],"uuid":"0f71af4546e24ed0897a3b2131f5b825"}
